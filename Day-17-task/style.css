@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+}
+
+body {
+    background-image: url("image/bg3.jpg");
+    background-size:100%;
+    font-family: sans-serif;
+    
+}
+
+#main{
+display: flex;
+justify-content: center;
+align-items:center;
+height: 100vh;
+
+}
+
+#text{
+    font-size:40px;
+    color: black;
+}
